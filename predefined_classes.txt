@@ -1,0 +1,7 @@
+human
+horses
+flowers
+dogs
+cats
+cars
+bike
